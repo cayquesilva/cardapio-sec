@@ -247,3 +247,12 @@ body{
     text-align: justify;
     max-height: 115px;
 }
+
+footer{
+    height: 40px;
+    width: 100%;
+    background-image: url(../imagens/rodapé.png);
+    background-size: cover;
+    position: fixed;
+    bottom: 0;
+}
