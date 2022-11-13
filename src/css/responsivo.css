@@ -1,0 +1,101 @@
+@media (max-width: 620px){
+
+    .cabecalho .logopmcg{
+        width: 40%;
+        height: 40%;
+    }
+
+    .cabecalho h1{
+        font-size: 22px;
+    }
+
+    .etapa h1{
+        margin-bottom: 2px;
+    }
+
+    .slider{
+        padding: 0 15px;
+        gap: 5px;
+        margin: 10px 0;
+    }
+
+    .btn-seta{
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+    }
+
+    .lista-cardapio{
+        height: 480px;
+        width: 280px;
+    }
+
+    .cartao{
+        gap: 2px;
+    }
+
+    .cartao .img-pokemon{
+        max-height: 230px;
+    }
+
+    .cartao .informacoes .nome{
+        max-width: 45%;
+        font-size: 18px;
+    }
+
+    .cartao .informacoes .dia{
+        font-size: 14px;
+    }
+
+}
+
+@media (max-width: 380px){
+
+    .cabecalho .logopmcg{
+        width: 35%;
+        height: 35%;
+    }
+
+    .cabecalho h1{
+        font-size: 18px;
+    }
+
+    .etapa h1{
+        margin-bottom: 2px;
+    }
+
+    .slider{
+        padding: 0 6px;
+        gap: 2px;
+        margin: 6px 0;
+    }
+
+    .btn-seta{
+        width: 14px;
+        height: 14px;
+        padding: 18px;
+    }
+
+    .lista-cardapio{
+        height: 480px;
+        width: 280px;
+    }
+
+    .cartao{
+        gap: 2px;
+    }
+
+    .cartao .img-pokemon{
+        max-height: 230px;
+    }
+
+    .cartao .informacoes .nome{
+        max-width: 45%;
+        font-size: 18px;
+    }
+
+    .cartao .informacoes .dia{
+        font-size: 14px;
+    }
+
+}
